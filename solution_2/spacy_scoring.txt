@@ -1,0 +1,5 @@
+Mention F1: 37.20%
+Mention recall: 29.76%
+Mention precision: 49.59%
+Macro F1: 26.46%
+Macro F1 few-shot: 0.00%
